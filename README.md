@@ -7,3 +7,7 @@ This repository contains two (2) files:
 * Jupyter notebook is a skeleton for your implementation.
 
 Find assignment details on Canvas.
+
+## Notes
+
+Questions are all answered in the first markdown block. Evidence, elaboration, and reasoning are all shown in the code and comments after.
